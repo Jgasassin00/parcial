@@ -85,4 +85,4 @@ examen/
 3. Navegar entre las páginas usando el menú
 4. O abrir directamente cualquier archivo HTML en el navegador
 
-**Juan Gari y Andrés Calle Usma - Septiembre 2024**
+**Juan Gari y Andrés Calle Usma - Septiembre 2025**
